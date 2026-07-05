@@ -106,7 +106,14 @@ Customer-Churn-Prediction/
 
 ## 📸 Application Screenshots
 
-(Add screenshots here in the next step.)
+### App Page
+![Home](screenshots/app.png)
+
+### Stay Prediction
+![Home](screenshots/stay_prediction.png)
+
+### Churn Prediction
+![Home](screenshots/churn_prediction.png)
 
 ---
 
