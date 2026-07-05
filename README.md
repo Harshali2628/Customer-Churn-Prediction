@@ -9,7 +9,7 @@ This project predicts whether a telecom customer is likely to churn (leave the s
 ## 🌐 Connect with Me
 
 - 💻 **GitHub:** https://github.com/Harshali2628
-- 💼 **LinkedIn:** www.linkedin.com/in/harshali-panchal-771b6324a
+- 💼 **LinkedIn:** https://www.linkedin.com/in/harshali-panchal-771b6324a
 - 🚀 **Live Demo:** https://customer-churn-prediction-yhoc8f2nt6aueuz9phpm64.streamlit.app
 
 ---
