@@ -6,13 +6,6 @@ This project predicts whether a telecom customer is likely to churn (leave the s
 
 ---
 
-## 🎯 Problem Statement
-
-Customer churn is one of the biggest challenges for telecom companies. Losing existing customers leads to revenue loss and increased customer acquisition costs. This project uses customer demographics, account information, and service usage details to predict customer churn.
-
-
----
-
 ## 🌐 Connect with Me
 
 - 💻 **GitHub:** https://github.com/Harshali2628
@@ -20,6 +13,15 @@ Customer churn is one of the biggest challenges for telecom companies. Losing ex
 - 🚀 **Live Demo:** https://customer-churn-prediction-yhoc8f2nt6aueuz9phpm64.streamlit.app
 
 ---
+
+## 🎯 Problem Statement
+
+Customer churn is one of the biggest challenges for telecom companies. Losing existing customers leads to revenue loss and increased customer acquisition costs. This project uses customer demographics, account information, and service usage details to predict customer churn.
+
+
+---
+
+
 
 ## ✨ Features
 
