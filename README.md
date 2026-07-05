@@ -10,6 +10,15 @@ This project predicts whether a telecom customer is likely to churn (leave the s
 
 Customer churn is one of the biggest challenges for telecom companies. Losing existing customers leads to revenue loss and increased customer acquisition costs. This project uses customer demographics, account information, and service usage details to predict customer churn.
 
+
+---
+
+## 🌐 Connect with Me
+
+- 💻 **GitHub:** https://github.com/Harshali2628
+- 💼 **LinkedIn:** www.linkedin.com/in/harshali-panchal-771b6324a
+- 🚀 **Live Demo:** https://customer-churn-prediction-yhoc8f2nt6aueuz9phpm64.streamlit.app
+
 ---
 
 ## ✨ Features
@@ -72,15 +81,25 @@ streamlit run app.py
 
 ## 📁 Project Structure
 
-```
+```text
 Customer-Churn-Prediction/
+│
+├── data/
+│   └── WA_Fn-UseC_-Telco-Customer-Churn.csv
+│
+├── models/
+│   └── churn_model.pkl
+│
+├── screenshots/
+│   ├── home.png
+│   ├── stay_prediction.png
+│   └── churn_prediction.png
 │
 ├── app.py
 ├── churn_prediction.py
 ├── requirements.txt
-├── churn_model.pkl
-├── WA_Fn-UseC_-Telco-Customer-Churn.csv
-└── screenshots/
+├── README.md
+└── .gitignore
 ```
 
 ---
